@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://paulgreg.me/math-game/static/css/main.81d6048a.chunk.css",
+    "main.js": "https://paulgreg.me/math-game/static/js/main.e3ad71fc.chunk.js",
+    "main.js.map": "https://paulgreg.me/math-game/static/js/main.e3ad71fc.chunk.js.map",
+    "runtime-main.js": "https://paulgreg.me/math-game/static/js/runtime-main.b3c65ba1.js",
+    "runtime-main.js.map": "https://paulgreg.me/math-game/static/js/runtime-main.b3c65ba1.js.map",
+    "static/js/2.e6556b31.chunk.js": "https://paulgreg.me/math-game/static/js/2.e6556b31.chunk.js",
+    "static/js/2.e6556b31.chunk.js.map": "https://paulgreg.me/math-game/static/js/2.e6556b31.chunk.js.map",
+    "index.html": "https://paulgreg.me/math-game/index.html",
+    "service-worker.js": "https://paulgreg.me/math-game/service-worker.js",
+    "service-worker.js.map": "https://paulgreg.me/math-game/service-worker.js.map",
+    "static/css/main.81d6048a.chunk.css.map": "https://paulgreg.me/math-game/static/css/main.81d6048a.chunk.css.map",
+    "static/js/2.e6556b31.chunk.js.LICENSE.txt": "https://paulgreg.me/math-game/static/js/2.e6556b31.chunk.js.LICENSE.txt",
+    "static/media/logo-multiply.562cea21.svg": "https://paulgreg.me/math-game/static/media/logo-multiply.562cea21.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3c65ba1.js",
+    "static/js/2.e6556b31.chunk.js",
+    "static/css/main.81d6048a.chunk.css",
+    "static/js/main.e3ad71fc.chunk.js"
+  ]
+}
